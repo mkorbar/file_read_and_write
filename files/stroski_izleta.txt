@@ -1,0 +1,8 @@
+janez,0
+# micka je placala za kosilo
+micka,172
+franc,0
+lojzka,34
+# alfonz je placal za vse vstopnine
+alfonz,212
+jozefina,11
